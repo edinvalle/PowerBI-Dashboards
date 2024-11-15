@@ -4,22 +4,6 @@ Este repositorio fue creado para proyectos de Business Intelligence (BI) persona
 
 ---
 
-
-## Visualización Previa
-
-<table>
-  <tr>
-    <td align="center">
-        <img src="https://raw.githubusercontent.com/edinvalle/PowerBI-Dashboards/main/Proyecto1/Imagen%201..png" alt="Proyecto 1" style="width: 80px; height: auto;" title="Proyecto 1">
-        <p>Proyecto 1: Análisis de Ventas</p>
-    </td>
-    <td align="center">
-        <img src="https://raw.githubusercontent.com/edinvalle/PowerBI-Dashboards/main/Proyecto2/Imagen%202.png" alt="Proyecto 2" style="width: 80px; height: auto;" title="Proyecto 2">
-        <p>Proyecto 2: Análisis de Clientes</p>
-    </td>
-  </tr>
-</table>
-
 ## Visualización Previa
 
 <table>
