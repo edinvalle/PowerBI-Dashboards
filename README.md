@@ -6,17 +6,22 @@ Este repositorio fue creado para proyectos de Business Intelligence (BI) persona
 
 ## Visualización Previa
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+<div style="display: flex; flex-direction: column; gap: 20px;">
 
-<!-- Imágenes de ejemplo -->
-<img src="https://github.com/edinvalle/PowerBI-Dashboards/blob/main/Proyecto1/Imagen%201..png" alt="Dashboard 1" style="width: 100%;" title="Dashboard 1">
-<img src="https://github.com/edinvalle/PowerBI-Dashboards/blob/main/Proyecto2/Imagen%202.png " alt="Dashboard 2" style="width: 100%;" title="Dashboard 2">
-<!-- Espacios vacíos para completar las 4 columnas -->
-<div style="width: 100%;"></div>
-<div style="width: 100%;"></div>
-
+<!-- Primera fila con solo dos imágenes y dos espacios vacíos -->
+<div style="display: flex; gap: 10px;">
+    <div style="text-align: center; width: 23%;">
+        <img src="https://github.com/edinvalle/PowerBI-Dashboards/blob/main/Proyecto1/Imagen%201..png" alt="Proyecto 1" style="width: 100%;" title="Proyecto 1">
+        <p>Proyecto 1: Análisis de Ventas</p>
+    </div>
+    <div style="text-align: center; width: 23%;">
+        <img src="https://github.com/edinvalle/PowerBI-Dashboards/blob/main/Proyecto2/Imagen%202.png" alt="Proyecto 2" style="width: 100%;" title="Proyecto 2">
+        <p>Proyecto 2: Análisis de Clientes</p>
+    </div>
+    <!-- Espacios vacíos para completar las 4 columnas -->
+    <div style="width: 23%;"></div>
+    <div style="width: 23%;"></div>
 </div>
-
 ---
 
 ## Cómo utilizar este repositorio
