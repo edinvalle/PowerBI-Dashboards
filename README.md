@@ -6,22 +6,22 @@ Este repositorio fue creado para proyectos de Business Intelligence (BI) persona
 
 ## Visualización Previa
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+<div style="display: flex; gap: 20px; justify-content: start; align-items: center;">
 
-<!-- Primera fila con solo dos imágenes y dos espacios vacíos -->
-<div style="text-align: center;">
-    <img src="https://github.com/edinvalle/PowerBI-Dashboards/blob/main/Proyecto1/Imagen%201..png" alt="Proyecto 1" style="width: 80px; height: auto;" title="Proyecto 1">
-    <p>Proyecto 1: Análisis de Ventas</p>
-</div>
-<div style="text-align: center;">
-    <img src="https://github.com/edinvalle/PowerBI-Dashboards/blob/main/Proyecto2/Imagen%202.png" alt="Proyecto 2" style="width: 80px; height: auto;" title="Proyecto 2">
-    <p>Proyecto 2: Análisis de Clientes</p>
-</div>
-<!-- Espacios vacíos para completar las 4 columnas -->
-<div style="width: 100%;"></div>
-<div style="width: 100%;"></div>
+    <!-- Imagen 1 -->
+    <div style="text-align: center;">
+        <img src="https://github.com/edinvalle/PowerBI-Dashboards/blob/main/Proyecto1/Imagen%201..png" alt="Proyecto 1" style="width: 80px; height: auto;" title="Proyecto 1">
+        <p>Proyecto 1: Análisis de Ventas</p>
+    </div>
+
+    <!-- Imagen 2 -->
+    <div style="text-align: center;">
+        <img src="https://github.com/edinvalle/PowerBI-Dashboards/blob/main/Proyecto2/Imagen%202.png" alt="Proyecto 2" style="width: 80px; height: auto;" title="Proyecto 2">
+        <p>Proyecto 2: Análisis de Clientes</p>
+    </div>
 
 </div>
+
 
 
 ## Cómo utilizar este repositorio
