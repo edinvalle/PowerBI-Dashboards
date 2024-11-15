@@ -6,8 +6,6 @@ Este repositorio fue creado para proyectos de Business Intelligence (BI) persona
 
 ## Visualización Previa
 
-## Visualización Previa
-
 <table>
   <tr>
     <!-- Imagen 1 -->
@@ -23,6 +21,7 @@ Este repositorio fue creado para proyectos de Business Intelligence (BI) persona
     </td>
   </tr>
 </table>
+
 
 
 ## Cómo utilizar este repositorio
