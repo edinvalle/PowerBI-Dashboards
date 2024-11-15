@@ -16,7 +16,7 @@ Este repositorio fue creado para proyectos de Business Intelligence (BI) persona
 
     <!-- Imagen 2 -->
     <td align="center">
-        <img src="https://github.com/edinvalle/PowerBI-Dashboards/blob/main/Proyecto2/Imagen%202.png " alt="Proyecto 2" style="width: 80px; height: auto;" title="Proyecto 2">
+        <img src="https://github.com/edinvalle/PowerBI-Dashboards/blob/main/Proyecto2/Imagen%202.png" alt="Proyecto 2" style="width: 80px; height: auto;" title="Proyecto 2">
         <p>Proyecto 2: Análisis de Clientes</p>
     </td>
   </tr>
