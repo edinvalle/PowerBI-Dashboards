@@ -10,16 +10,15 @@ Este repositorio fue creado para proyectos de Business Intelligence (BI) persona
   <tr>
     <td align="center">
         <img src="https://raw.githubusercontent.com/edinvalle/PowerBI-Dashboards/main/Proyecto1/Imagen%201..png" alt="Proyecto 1" style="width: 120px; height: auto;" title="Proyecto 1">
-        <p>Proyecto 1: Análisis de Ventas</p> [URL](https://app.powerbi.com/view?r=eyJrIjoiOGE1ZTRkYzEtMTY5OC00NzQyLWJkZWYtMTJlOGUyOGZjMzRmIiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9) 
+        <p>Proyecto 1: Análisis de Ventas <a href="https://app.powerbi.com/view?r=eyJrIjoiOGE1ZTRkYzEtMTY5OC00NzQyLWJkZWYtMTJlOGUyOGZjMzRmIiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9" target="_blank">[Ver Proyecto]</a></p>
     </td>
     <td align="center">
         <img src="https://raw.githubusercontent.com/edinvalle/PowerBI-Dashboards/main/Proyecto2/Imagen%202.png" alt="Proyecto 2" style="width: 120px; height: auto;" title="Proyecto 2">
-        <p>Proyecto 2: Análisis de Clientes</p> 
-[URL](https://app.powerbi.com/view?r=eyJrIjoiZTI3YzVhNTAtMmI1MC00NTdjLWExMjgtODc4ZDJhMmVhZGQ4IiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9)
-
+        <p>Proyecto 2: Análisis de Clientes <a href="https://app.powerbi.com/view?r=eyJrIjoiZTI3YzVhNTAtMmI1MC00NTdjLWExMjgtODc4ZDJhMmVhZGQ4IiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9" target="_blank">[Ver Proyecto]</a></p>
     </td>
   </tr>
 </table>
+
 
 
 
